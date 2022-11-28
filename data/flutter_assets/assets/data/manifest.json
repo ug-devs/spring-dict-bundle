@@ -1,0 +1,86 @@
+{
+    "languages": [
+        {
+            "source": "English",
+            "destination": "ئۇيغۇرچە",
+            "code": "EnUg",
+            "enabled": true,
+            "fontFamily": "UkijCjk",
+            "tagColor": "#ff07078f"
+        },
+        {
+            "source": "ئۇيغۇرچە",
+            "destination": "English",
+            "fontFamily": "UkijCjk",
+            "code": "UgEn",
+            "enabled": true,
+            "tagColor": "#31C8FE"
+        },
+        {
+            "source": "中文",
+            "destination": "ئۇيغۇرچە",
+            "fontFamily": "Pinyin0",
+            "code": "ZhUg",
+            "enabled": true,
+            "tagColor": "blue"
+        },
+        {
+            "source": "ئۇيغۇرچە",
+            "destination": "中文",
+            "fontFamily": "Pinyin0",
+            "code": "UgZh",
+            "enabled": true,
+            "tagColor": "orange"
+        },
+        {
+            "source": "中文(现代科技字典)",
+            "destination": "ئۇيغۇرچە",
+            "fontFamily": "Pinyin0",
+            "code": "ZhUgExtended1",
+            "enabled": true,
+            "tagColor": "blue"
+        },
+        {
+            "source": "(پەن-تېخنىكا لۇغىتى)ئۇيغۇرچە",
+            "destination": "中文",
+            "fontFamily": "Pinyin0",
+            "code": "UgZhExtended1",
+            "enabled": true,
+            "tagColor": "orange"
+        },
+        {
+            "source": "ئۇيغۇرچە",
+            "destination": "ئۇيغۇرچە",
+            "fontFamily": "UkijCjk",
+            "code": "UgUg",
+            "enabled": true,
+            "tagColor": "#9c27b0"
+        },
+        {
+            "source": "العربية",
+            "destination": "ئۇيغۇرچە",
+            "fontFamily": "UkijCjk",
+            "code": "ArUg",
+            "enabled": false,
+            "tagColor": "#00bcd4"
+        },
+        {
+            "source": "العربية (موسعة 1)",
+            "destination": "ئۇيغۇرچە",
+            "fontFamily": "UkijCjk",
+            "code": "ArUgExtended1",
+            "enabled": false,
+            "tagColor": "#ff5722"
+        },
+        {
+            "source": "العربية (موسعة 2)",
+            "destination": "ئۇيغۇرچە",
+            "fontFamily": "UkijCjk",
+            "code": "ArUgExtended2",
+            "enabled": false,
+            "tagColor": "orange"
+        }
+    ],
+    "name": "Spring multi-language dictionary",
+    "version": "2021-07"
+}
